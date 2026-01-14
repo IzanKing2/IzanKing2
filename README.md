@@ -53,16 +53,6 @@
 
 ---
 
-## 🔧 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IzanKing2&show_icons=true&theme=tokyonight" height="150" alt="Izan Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzanKing2&layout=compact&theme=tokyonight" height="150" alt="Izan Languages" />
-</div>
-
----
-
 ## 🔗 Let's Connect!
 
 <p align="left">
