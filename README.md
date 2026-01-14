@@ -55,10 +55,11 @@
 
 ## 🔧 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IzanKing2&show_icons=true&theme=github_dark&count_private=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzanKing2&layout=compact&theme=github_dark" height="200" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IzanKing2&show_icons=true&theme=tokyonight" height="150" alt="Izan Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzanKing2&layout=compact&theme=tokyonight" height="150" alt="Izan Languages" />
+</div>
 
 ---
 
